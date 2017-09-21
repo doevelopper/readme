@@ -1,7 +1,7 @@
 # CSV Analyzer Pro - Manage your spreadsheets like never before
 
 <h1 align="center">
-  <img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.9.x/branding-logo.png" alt="vim-devicons">
+  <img src="http://kot90.altervista.org/survius/img/pN1lLlYCXO" alt="csv-logo">
 </h1>
 
 [![GitHub version][img-version-badge]][badge-version]
